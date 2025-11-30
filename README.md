@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Murthy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=murthy-manchikanti&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murthy-manchikanti)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **murthy-manchikanti/murthy-manchikanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
