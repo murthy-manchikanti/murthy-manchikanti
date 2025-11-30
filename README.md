@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Murthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=murthy-manchikanti)](https://github.com/murthy-manchikanti/github-readme-stats)
 <!--
 **murthy-manchikanti/murthy-manchikanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
