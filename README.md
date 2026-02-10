@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murthy Manchikanti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
-### What I'm Proficient In
+### What I'm Proficient in
 <p align="center">
   <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -66,9 +66,12 @@
 
 <p align = "center">
   <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href = "https://github.com/murthy-manchikanti" />
   <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href = "https://instagram.com/coolkid_13_511" />
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href = "https://www.linkedin.com/in/murthy-m" />
   <img src = "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
 
@@ -81,4 +84,4 @@
   </p>
 </div>
 
-##### Contact Me At: mlnmurthy257@gmail.com
+##### You can also contact me at: mlnmurthy257@gmail.com
