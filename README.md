@@ -7,7 +7,6 @@
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src = "https://img.shields.io/badge/C%2B%2B-%23FFA500?label=C%2B%2B&labelColor=%23FFA500" />
 </p>
 
 ---
@@ -82,4 +81,4 @@
   </p>
 </div>
 
-##### Contact Me At mlnmurthy257@gmail.com
+##### Contact Me At: mlnmurthy257@gmail.com
